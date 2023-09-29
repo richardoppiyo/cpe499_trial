@@ -1,11 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+
 # CPE 499 Trial
+
+# DDP
+
 
 > Description the project.
 
 
-## Built With
+## Built With Stuff
 
 - Major languages
 - Frameworks
@@ -13,7 +17,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[ADD LINK TO RYAN'S TWITCH CHANNEL]
 
 
 ## Getting Started
@@ -62,8 +66,15 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## Acknowledgments - NATE PENDERGAST
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
+
+## Youtube Plug!!!!
+
+- VVV RIGHT HERE! VVV
+
+-https://youtube.com/@LittleChuewyVods-wo3fz?si=axVjAhXWpRXvYtlG
