@@ -1,11 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# DDP
 
 > Description the project.
 
 
-## Built With
+## Built With Stuff
 
 - Major languages
 - Frameworks
@@ -13,7 +13,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[ADD LINK TO RYAN'S TWITCH CHANNEL]
 
 
 ## Getting Started
@@ -62,7 +62,7 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## Acknowledgments - NATE PENDERGAST
 
 - Hat tip to anyone whose code was used
 - Inspiration
