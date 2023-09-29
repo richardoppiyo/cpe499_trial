@@ -1,6 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+
+# CPE 499 Trial
+
 # DDP
+
 
 > Description the project.
 
@@ -63,11 +67,6 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments - NATE PENDERGAST
-
-- Hat tip to anyone whose code was used
-
-- Inspiration
-- etc
 
 ## 📝 License
 
